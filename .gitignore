@@ -1,0 +1,22 @@
+# Rojo / Roblox
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Wally
+Packages/
+ServerPackages/
+DevPackages/
+wally.lock
+
+# Aftman/Rokit tool cache
+.aftman/
+.rokit/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
